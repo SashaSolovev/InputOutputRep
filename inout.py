@@ -1,0 +1,13 @@
+first = int(input('первое число '))
+second = int(input('второе число '))
+print("сложение чисел")
+print(first + second)
+print("разность чисел")
+print( first - second)
+print("среднее арифметическое")
+print((first+second)/2)
+print("произведение")
+print(first * second)
+print("частное")
+print(first / second)
+
